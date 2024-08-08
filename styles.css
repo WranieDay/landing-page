@@ -1,0 +1,46 @@
+/* Basic reset */
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styling */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+    background: url(https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+
+}
+
+
+/* Header styling */
+header {
+    
+    color: rgb(0, 0, 0);
+    padding: 20px 0;
+}
+
+/* Navigation styling */
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 0 20px;
+}
+p {
+    font-size: 30px;
+}
+
+/* Main section styling */
+main {
+    margin: 240px 0;
+}
+
+/* Footer styling */
+footer {
+    
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+}
